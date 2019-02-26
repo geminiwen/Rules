@@ -60,3 +60,53 @@ DOMAIN-SUFFIX,ntlworld.com
 DOMAIN-SUFFIX,ttvnw.net,Proxy
 DOMAIN-SUFFIX,jtvnw.net,Proxy
 DOMAIN-SUFFIX,twitchcdn.net,Proxy
+
+# Clients
+PROCESS-NAME,Backup and Sync,Proxy
+PROCESS-NAME,Day One,Proxy
+PROCESS-NAME,Dropbox,Proxy
+PROCESS-NAME,Google Drive File Stream,Proxy
+PROCESS-NAME,LINE,Proxy
+PROCESS-NAME,node-webkit,Proxy
+PROCESS-NAME,Resilio Sync,Proxy
+PROCESS-NAME,Spotify,Proxy
+PROCESS-NAME,Telegram,Proxy
+PROCESS-NAME,Tweetbot,Proxy
+PROCESS-NAME,Twitter,Proxy
+PROCESS-NAME,Twitterrific,Proxy
+PROCESS-NAME,viu,Proxy
+# UA
+USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*,Proxy
+USER-AGENT,*Telegram*,Proxy
+USER-AGENT,Argo*,Proxy
+USER-AGENT,AwemeI18n*,Proxy
+USER-AGENT,Coinbase*,Proxy
+USER-AGENT,com.google.ios.youtube*,Proxy
+USER-AGENT,Instagram*,Proxy
+USER-AGENT,Resilio Sync*,Proxy
+USER-AGENT,SoundCloud*,Proxy
+USER-AGENT,viu*,Proxy
+USER-AGENT,WeMusic*,Proxy
+USER-AGENT,WhatsApp*,Proxy
+USER-AGENT,YouTube*,Proxy
+# Line
+DOMAIN-SUFFIX,lin.ee,Proxy
+DOMAIN-SUFFIX,line.me,Proxy
+DOMAIN-SUFFIX,line.naver.jp,Proxy
+DOMAIN-SUFFIX,line-apps.com,Proxy
+DOMAIN-SUFFIX,line-cdn.net,Proxy
+DOMAIN-SUFFIX,line-scdn.net,Proxy
+DOMAIN-SUFFIX,nhncorp.jp,Proxy
+# Netflix
+DOMAIN-SUFFIX,netflix.com,Proxy
+DOMAIN-SUFFIX,netflix.net,Proxy
+DOMAIN-SUFFIX,nflxext.com,Proxy
+DOMAIN-SUFFIX,nflximg.com,Proxy
+DOMAIN-SUFFIX,nflximg.net,Proxy
+DOMAIN-SUFFIX,nflxvideo.net,Proxy
+# Steam
+DOMAIN-SUFFIX,fanatical.com,Proxy
+DOMAIN-SUFFIX,humblebundle.com,Proxy
+DOMAIN-SUFFIX,steamcommunity.com,Proxy
+DOMAIN-SUFFIX,steampowered.com,Proxy
+DOMAIN-SUFFIX,steamstatic.com,Proxy
