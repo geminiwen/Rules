@@ -57,3 +57,6 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,ntlworld.com
+DOMAIN-SUFFIX,ttvnw.net,Proxy
+DOMAIN-SUFFIX,jtvnw.net,Proxy
+DOMAIN-SUFFIX,twitchcdn.net,Proxy
