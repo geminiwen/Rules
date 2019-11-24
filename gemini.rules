@@ -109,6 +109,9 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,ntlworld.com
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,unsplash.com,Proxy
+DOMAIN-SUFFIX,githubapp.com,Proxy
+DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,twitchcdn.net
 
 # Clients
