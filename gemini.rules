@@ -113,6 +113,13 @@ DOMAIN-SUFFIX,unsplash.com,Proxy
 DOMAIN-SUFFIX,githubapp.com,Proxy
 DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,sketch.com
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,w3schools.com
+DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,myip.hk
 
 # Clients
 PROCESS-NAME,Backup and Sync
