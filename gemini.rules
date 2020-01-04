@@ -44,8 +44,11 @@ DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,rubygems.org
+DOMAIN-SUFFIX,python.org
+DOMAIN-KEYWORD,amazon
+DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,iterm2.com
