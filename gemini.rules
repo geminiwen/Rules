@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,abc.xyz
-DOMAIN-SUFFIX,youtube.com
+DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
 DOMAIN-SUFFIX,youtu.be
